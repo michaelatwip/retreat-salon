@@ -151,7 +151,7 @@ section{padding:130px 6vw}
 .by b{font-weight:500;display:block;font-size:15px}.by small{font-size:12.5px;opacity:.65}
 footer{background:var(--ink);color:#E6DECF;margin-top:6px;padding:80px 6vw 40px;display:grid;grid-template-columns:1.4fr 1fr 1fr 1fr;gap:40px;font-size:14px}
 footer .logo{width:240px;margin-bottom:20px}footer h4{font-size:11px;letter-spacing:.2em;text-transform:uppercase;opacity:.6;font-weight:400;margin-bottom:12px}
-footer a{display:block;text-decoration:none;margin-bottom:6px;opacity:.85}.fine{grid-column:1/-1;border-top:1px solid rgba(255,255,255,.12);padding-top:22px;font-size:12px;opacity:.5}
+footer a{display:block;text-decoration:none;margin-bottom:6px;opacity:.85}.fine{grid-column:1/-1;border-top:1px solid rgba(255,255,255,.12);padding-top:22px;font-size:12px;display:flex;justify-content:space-between;flex-wrap:wrap;gap:10px}.fine span.c{opacity:.5}footer .fine a.wip{display:inline;margin:0;opacity:.5;letter-spacing:.2em;text-transform:uppercase;font-size:11px}footer .fine a.wip:hover{opacity:1}
 .mbook{display:none}
 @media(max-width:1100px){.team{grid-template-columns:repeat(4,1fr)}}
 @media(max-width:820px){
@@ -212,7 +212,7 @@ def page(path, title, body, desc=None, cur=None, sticky=True):
 <div><h4>Visit</h4>{e(SITE['address1'])}<br>{e(SITE['address2'])}<br><span style="opacity:.7">{e(SITE['hours'])}</span></div>
 <div><h4>Explore</h4>{mlinks}<a href="{u('book/')}">Book</a></div>
 <div><h4>Follow</h4><a href="https://www.instagram.com/{e(SITE['instagram'])}/" target="_blank" rel="noopener">Instagram</a><a href="{e(SITE['bookingUrl'])}" target="_blank" rel="noopener">Book on Vagaro</a></div>
-<p class="fine">© <span data-year>2026</span> {e(SITE['name'])} · San Juan Capistrano, California</p></footer>
+<p class="fine"><span class="c">© <span data-year>2026</span> {e(SITE['name'])} · San Juan Capistrano, California</span><a class="wip" href="https://workinprogress.agency/" target="_blank" rel="noopener">Site by WIP</a></p></footer>
 {mbook}
 {JS}<script>document.querySelector('[data-year]').textContent=new Date().getFullYear()</script>
 </body></html>'''
