@@ -1,0 +1,37 @@
+{
+  "name": "The Retreat Salon",
+  "tagline": "Luxury, redefined.",
+  "announcement": "Now welcoming new guests in San Juan Capistrano",
+  "heroTitle": "Luxury,|redefined.",
+  "heroText": "A beach-inspired escape for lived-in color, extensions and effortless cuts, minutes from the coast.",
+  "heroImage": "images/space/styling-floor.jpg",
+  "intro": "The Retreat Salon is redefining the salon experience by blending high-end luxury with a laid-back, beach-inspired vibe, right in the heart of San Juan Capistrano. Designed to feel like your personal escape, with expert stylists delivering personalized, detail-driven services tailored to you.",
+  "location": "Close to the Dana Point coastline, minutes from Historic Downtown SJC and River Street Marketplace. No shortage of great food, coffee and boutique shopping when you spend a day of self care at TRS.",
+  "address1": "27221 Ortega Hwy, Suite A",
+  "address2": "San Juan Capistrano, CA 92675",
+  "hours": "Tuesday – Saturday, by appointment",
+  "phone": "",
+  "email": "",
+  "instagram": "theretreatsalonco",
+  "bookingUrl": "https://www.vagaro.com/theretreatsalonn/book-now",
+  "vagaroWidget": "",
+  "servicesNote": "Pricing is set by each stylist. Your stylist will go over it with you before your appointment.",
+  "faq": [
+    {
+      "question": "How much does a service cost?",
+      "answer": "Pricing varies by stylist and your hair. Your stylist will go over it with you before your appointment."
+    },
+    {
+      "question": "I’m new. Who should I book with?",
+      "answer": "Choose “First available” or tell us your hair goals and we’ll match you with the right stylist."
+    },
+    {
+      "question": "Do you do consultations?",
+      "answer": "Yes. Extensions always start with a consultation, and any color client is welcome to book one first."
+    },
+    {
+      "question": "Where do I park?",
+      "answer": "Free parking is available in the lot outside Suite A."
+    }
+  ]
+}

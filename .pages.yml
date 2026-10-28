@@ -1,0 +1,79 @@
+# Pages CMS (https://pagescms.org): a simple editing form for the salon's content.
+media:
+  input: images
+  output: /images
+content:
+  - name: team
+    label: Stylists
+    type: file
+    path: content/team.json
+    format: json
+    fields:
+      - name: stylists
+        label: Stylists
+        type: object
+        list: true
+        fields:
+          - { name: name, label: Name, type: string, required: true }
+          - { name: slug, label: Page address (lowercase, no spaces), type: string, required: true }
+          - { name: role, label: Role, type: string }
+          - { name: specialty, label: Specialty (short line), type: string }
+          - { name: photo, label: Photo, type: image }
+          - { name: instagram, label: Instagram handle (no @), type: string }
+          - { name: summary, label: One-line summary, type: text }
+          - { name: bio, label: Bio, type: text }
+          - { name: bookingUrl, label: Vagaro booking link for this stylist (optional), type: string }
+          - { name: show, label: Show on site, type: boolean, default: true }
+  - name: services
+    label: Services & prices
+    type: file
+    path: content/services.json
+    format: json
+    fields:
+      - name: services
+        label: Services
+        type: object
+        list: true
+        fields:
+          - { name: name, label: Service, type: string, required: true }
+          - { name: duration, label: Time, type: string }
+          - { name: price, label: Price (optional, e.g. "From $180"), type: string }
+          - { name: description, label: Description, type: text }
+          - { name: includes, label: Includes, type: text }
+  - name: gallery
+    label: The Space photos
+    type: file
+    path: content/gallery.json
+    format: json
+    fields:
+      - name: photos
+        label: Photos
+        type: object
+        list: true
+        fields:
+          - { name: image, label: Photo, type: image }
+          - { name: caption, label: Caption, type: string }
+  - name: site
+    label: Salon details
+    type: file
+    path: content/site.json
+    format: json
+    fields:
+      - { name: announcement, label: Top banner text, type: string }
+      - { name: heroTitle, label: "Home headline (| starts the italic line)", type: string }
+      - { name: heroText, label: Home intro line, type: text }
+      - { name: heroImage, label: Home photo, type: image }
+      - { name: intro, label: Welcome text, type: text }
+      - { name: location, label: Location text, type: text }
+      - { name: hours, label: Hours, type: string }
+      - { name: phone, label: Phone, type: string }
+      - { name: bookingUrl, label: Vagaro booking link, type: string }
+      - { name: vagaroWidget, label: Vagaro booking widget code (from Vagaro settings), type: code }
+      - { name: servicesNote, label: Pricing note, type: text }
+      - name: faq
+        label: FAQs
+        type: object
+        list: true
+        fields:
+          - { name: question, label: Question, type: string }
+          - { name: answer, label: Answer, type: text }

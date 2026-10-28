@@ -1,0 +1,32 @@
+{
+  "photos": [
+    {
+      "image": "images/space/styling-floor-2.jpg",
+      "caption": "The styling floor"
+    },
+    {
+      "image": "images/space/entry.jpg",
+      "caption": "The entry"
+    },
+    {
+      "image": "images/space/wash-lounge.jpg",
+      "caption": "The wash lounge"
+    },
+    {
+      "image": "images/space/lobby.jpg",
+      "caption": "The lobby"
+    },
+    {
+      "image": "images/space/wash-to-lobby.jpg",
+      "caption": "Light all day"
+    },
+    {
+      "image": "images/space/styling-floor.jpg",
+      "caption": "Under the arches"
+    },
+    {
+      "image": "images/space/wash.jpg",
+      "caption": "Deep wash chairs"
+    }
+  ]
+}

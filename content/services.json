@@ -1,0 +1,46 @@
+{
+  "services": [
+    {
+      "name": "Classic Color",
+      "duration": "2 - 3 hours",
+      "description": "Timeless color, from grey coverage and blending to classic blondes.",
+      "includes": "Includes a single gloss or base bump, blow dry & style.",
+      "price": ""
+    },
+    {
+      "name": "Custom Color",
+      "duration": "3 - 4.5 hours",
+      "description": "All-inclusive color, whether you’re after a sun-kissed, lived-in look or that platinum blonde.",
+      "includes": "Includes custom tone (root shadow & all-over gloss or color melt), blow dry & style.",
+      "price": ""
+    },
+    {
+      "name": "Color Maintenance",
+      "duration": "1 - 1.5 hours",
+      "description": "In-between services to keep your custom color looking fresh.",
+      "includes": "All Over Gloss · Root Shadow + All Over Gloss · Color Melt",
+      "price": ""
+    },
+    {
+      "name": "Haircut",
+      "duration": "",
+      "description": "Women’s, men’s, children’s and teen cuts.",
+      "includes": "Finished with a blow dry & style.",
+      "price": ""
+    },
+    {
+      "name": "Keratin Smoothing",
+      "duration": "Approx. 2 - 3 hours",
+      "description": "Frizz-free, glossy, easier mornings.",
+      "includes": "Includes take-home shampoo & conditioner.",
+      "price": ""
+    },
+    {
+      "name": "Hair Extensions",
+      "duration": "By consultation",
+      "description": "Length, volume and K-Tip extensions, planned with you.",
+      "includes": "Price and timing set at your consultation.",
+      "price": ""
+    }
+  ]
+}

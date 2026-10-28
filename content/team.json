@@ -1,0 +1,124 @@
+{
+  "stylists": [
+    {
+      "slug": "maddy",
+      "name": "Maddy De León",
+      "role": "Co-Owner",
+      "specialty": "Lived-in color & extensions",
+      "photo": "images/team/maddy.jpg",
+      "instagram": "hairby.maddydeleon",
+      "summary": "Custom lived-in color and extensions: natural, sun-kissed looks that enhance your unique beauty and fit your lifestyle.",
+      "bio": "Hi, I’m Maddy De León, co-owner of The Retreat Salon and a passionate hair artist specializing in custom lived-in color and extensions. I focus on creating natural, sun-kissed looks that enhance your unique beauty and fit your lifestyle. Whether you're looking to elevate your everyday style or completely transform your hair, I’m here to help you feel confident, radiant, and authentically you.",
+      "bookingUrl": "",
+      "show": true
+    },
+    {
+      "slug": "delanie",
+      "name": "Delanie McKim",
+      "role": "Co-Owner",
+      "specialty": "Lived-in beach hair",
+      "photo": "images/team/delanie.jpg",
+      "instagram": "colorbydelanie",
+      "summary": "Effortlessly lived-in beach hair, and a luxury, calming experience where you can truly unwind and feel taken care of.",
+      "bio": "With years of experience behind the chair, I specialize in creating effortlessly lived-in beach hair that brings out your natural beauty. As a stylist and co-owner of The Retreat Salon, my passion goes beyond hair—I’m dedicated to offering a luxury, calming experience where you can truly unwind and feel taken care of.\n\nEvery appointment is more than just a service; it’s a chance to connect, recharge, and walk away feeling elevated and confident. I’ve poured my heart into making The Retreat a space where beauty and relaxation go hand in hand.\n\nI can’t wait to welcome you into my chair and create something beautiful together.",
+      "bookingUrl": "",
+      "show": true
+    },
+    {
+      "slug": "wendy",
+      "name": "Wendy Hunt",
+      "role": "Stylist",
+      "specialty": "Detailed cuts & custom color",
+      "photo": "images/team/wendy.jpg",
+      "instagram": "hairbywendyhunt",
+      "summary": "Detailed haircuts and custom color, with a focus on low-maintenance, lived-in styles that grow out seamlessly.",
+      "bio": "I am passionate about creating effortlessly beautiful hair in a fun, inspiring environment where you can truly unwind, be taken care of, and leave feeling your like your best self.\n\nI specialize in detailed haircuts and custom color, with a focus on low-maintenance, lived-in styles that grow out seamlessly. I love to collaborate with you to not only enhance your natural hair color but to also create a long term plan for you and your hair goals.\n\nMy easy-going nature and personalized approach make every appointment feel like a breath of fresh air — relaxing, enjoyable, and uniquely yours!",
+      "bookingUrl": "",
+      "show": true
+    },
+    {
+      "slug": "kelly",
+      "name": "Kelly Mellon",
+      "role": "Stylist",
+      "specialty": "Sun-kissed color & undone waves",
+      "photo": "images/team/kelly.jpg",
+      "instagram": "kellymellonhair",
+      "summary": "Laid back, lived-in hair that feels custom and timeless, with a west coast inspiration.",
+      "bio": "My passion is creating laid back, lived in hair. I strive for my looks to always feel custom and timeless with a west coast inspiration. My approach to hair is all about effortless style with a personal touch. Whether you’re after sun-kissed color, undone waves, or a fresh cut that works with your lifestyle, I tailor every service to fit you—your hair, your vibe, your life. I can’t wait to see you in my chair and create some magic!",
+      "bookingUrl": "",
+      "show": true
+    },
+    {
+      "slug": "hunter",
+      "name": "Hunter Linton",
+      "role": "Stylist",
+      "specialty": "Blondes, K-Tip extensions, keratin",
+      "photo": "images/team/hunter.jpg",
+      "instagram": "hunterlintonhair_",
+      "summary": "Lived-in blondes and brunettes, K-Tip extensions and keratin smoothing: customized, low-maintenance looks.",
+      "bio": "Specializes in lived-in blondes and brunettes, K-Tip extensions, and keratin smoothing treatments. My goal is to create customized, low-maintenance looks that enhance your natural hair and grow out seamlessly.\n\nI’m here to create a laid-back, comfortable experience where you can relax, feel taken care of, and leave feeling like your best self.\n\nOne of my favorite parts of this career is the connection I get to build with each client. Whether it’s deep conversation or quiet time, I love creating space that feels safe, real, and totally yours.",
+      "bookingUrl": "",
+      "show": true
+    },
+    {
+      "slug": "kathy",
+      "name": "Kathy Gomez",
+      "role": "Stylist",
+      "specialty": "Lived-in color, 12 years",
+      "photo": "images/team/kathy.jpg",
+      "instagram": "hairbykathyg",
+      "summary": "OC native and laidback perfectionist, in love with lived-in color and luxe, natural-looking hair.",
+      "bio": "Hi there, I’m Kathy - OC native, laidback perfectionist, and the hands behind the chair.\n\nWhether you're new here or a loyal regular, I'm glad you found your way to my chair. I’ve been doing hair for 12 years now, and what started as creative hobby has grown into a full on love affair with lived in color and luxe, natural looking extensions.\n\nMy vibe? Low maintenance hair that looks anything but low-effort. From blondes to brunettes- I specialize in dimensional color, seamless blends, and healthy color and extension transformations that are effortless + timeless.\n\nMy goal is always the same: to make you feel like you, but elevated.\n\nTrained under some of the industry’s finest and constantly attending advanced education, I’m always evolving my craft to give each guest the very best experience—and hair that leaves them feeling beautiful and confident.\n\nIf you’re ready to love your hair again—effortless, beautiful, and uniquely you—I’d love to make it happen.",
+      "bookingUrl": "",
+      "show": true
+    },
+    {
+      "slug": "rebekah",
+      "name": "Rebekah Walker",
+      "role": "Stylist",
+      "specialty": "Lived-in blondes & healthy hair",
+      "photo": "images/team/rebekah.jpg",
+      "instagram": "hairbyrebekahmichelle",
+      "summary": "Lived-in blondes that grow out seamlessly, with your hair’s integrity front and center.",
+      "bio": "Hi I’m Rebekah, a hairstylist specializing in lived-in blondes, healthy hair, and truly listening to what my clients want. I’m all about creating hair that looks effortlessly beautiful and grows out seamlessly, all while keeping your hair’s integrity front and center.\n\nI believe great hair starts with great communication. Whether you’re coming in for a big change or just a refresh, I take the time to understand your goals so we can create a look that fits your lifestyle and makes you feel amazing.\n\nMy chair is a space where creativity, connection, and care come together and I genuinely love getting to know each client who sits in it.",
+      "bookingUrl": "",
+      "show": true
+    },
+    {
+      "slug": "laney",
+      "name": "Laney Whitaker",
+      "role": "Stylist",
+      "specialty": "Seamless lived-in color",
+      "photo": "images/team/laney.jpg",
+      "instagram": "manebylane",
+      "summary": "Seamless, lived-in color that looks stunning through every phase of the grow-out.",
+      "bio": "Hi, I’m Laney Whitaker, and I love creating seamless, lived-in color that looks stunning through every phase of the grow-out. I strive to design hair that enhances your natural beauty while fitting effortlessly into your lifestyle. More than just great hair, I value the connections I build with each of my clients, and my goal is to have you leaving my chair feeling confident, refreshed, and completely yourself..",
+      "bookingUrl": "",
+      "show": true
+    },
+    {
+      "slug": "ryan",
+      "name": "Ryan Bourgeois",
+      "role": "Stylist",
+      "specialty": "Cut & color",
+      "photo": "images/team/ryan.jpg",
+      "instagram": "ryanbourgeois.hair",
+      "summary": "Stylist at The Retreat Salon, San Juan Capistrano.",
+      "bio": "",
+      "bookingUrl": "",
+      "show": true
+    },
+    {
+      "slug": "hannah",
+      "name": "Hannah Clifton",
+      "role": "Stylist",
+      "specialty": "Cut & color",
+      "photo": "images/team/hannah.jpg",
+      "instagram": "hair_byhannahrose",
+      "summary": "Stylist at The Retreat Salon, San Juan Capistrano.",
+      "bio": "",
+      "bookingUrl": "",
+      "show": true
+    }
+  ]
+}
